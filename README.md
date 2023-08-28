@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 
 > Descrição do projeto
-
+O projeto consiste em um aplicativo de duas telas dedicado a explorar raças de gatos. Na primeira tela, os usuários veem uma lista de raças com imagens e origens. Ao selecionar uma raça, eles são levados para a segunda tela, onde podem ver uma imagem ampliada do gato da raça escolhida, juntamente com informações detalhadas, como nome, tempo de vida, peso, características e descrição. O aplicativo visa oferecer uma maneira simples e agradável de aprender sobre diferentes raças de gatos por meio de imagens e informações específicas.
 ## 🎥 DEMO
 Veja a demo no youtube: https://www.youtube.com/embed/_xKbsEBddWw?si=4ovpt4PQ3LWVkyA
 
