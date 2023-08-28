@@ -1,4 +1,4 @@
-# Nome do app
+# CatLib
 
 <img width="200" src="logo-url">
 
@@ -28,11 +28,11 @@ Before starting, check the following requirements:
 
 if you have ssh configured, run the command
 ```
-git clone git@github.com:yago-marques/WeCare.git
+git clone git@github.com:Kadu-Santos/CatLib.git
 ```
 if you don't have ssh configured, run the command
 ```
-git clone https://github.com/yago-marques/WeCare.git
+git clone https://github.com/Kadu-Santos/CatLib.git
 ```
 
 After installing, open the installed folder with XCode and run `command + R`
