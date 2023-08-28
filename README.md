@@ -1,6 +1,6 @@
 # CatLib
 
-<img width="200" src="[logo-url](https://github.com/Kadu-Santos/CatLib/blob/main/CatLib/Assets.xcassets/GatoDia.imageset/GatoDia%201.png)">
+<img width="200" src="https://github.com/Kadu-Santos/CatLib/blob/main/CatLib/Assets.xcassets/GatoDia.imageset/GatoDia%201.png">
 
 <hr>
 
