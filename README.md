@@ -54,7 +54,7 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
       <a href="https://github.com/Paloma-antuness">
         <img src="https://avatars.githubusercontent.com/u/58533988?v=4" width="100px;"/><br>
         <sub>
-          <b>Nome do participante</b>
+          <b>Paloma Antunes</b>
         </sub>
       </a>
     </td>
