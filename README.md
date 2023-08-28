@@ -9,7 +9,7 @@
 > Descrição do projeto
 
 ## 🎥 DEMO
-Veja o viedeo no youtube: https://www.youtube.com/embed/_xKbsEBddWw?si=4ovpt4PQ3LWVkyA
+Veja a demo no youtube: https://www.youtube.com/embed/_xKbsEBddWw?si=4ovpt4PQ3LWVkyA
 
 ## 👩🏾‍💻 Technologies
 - [x] UIKit
