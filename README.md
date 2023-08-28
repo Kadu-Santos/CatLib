@@ -9,9 +9,7 @@
 > Descrição do projeto
 
 ## 🎥 DEMO
-<video width="320" height="240" controls>
-  <source src="[CatLib.mp4](https://github.com/Kadu-Santos/CatLib/blob/main/CatLib/Assets.xcassets/CatLibDemo/CatLib.mp4)" type="video/mp4">
-</video>
+Veja o viedeo no youtube: https://www.youtube.com/embed/_xKbsEBddWw?si=4ovpt4PQ3LWVkyA
 
 ## 👩🏾‍💻 Technologies
 - [x] UIKit
