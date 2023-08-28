@@ -51,8 +51,8 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
 <table>
   <tr>
     <td align="center">
-      <a href="link do github do participante">
-        <img src="link da imagem do github do participante" width="100px;"/><br>
+      <a href="https://github.com/Paloma-antuness">
+        <img src="https://avatars.githubusercontent.com/u/58533988?v=4" width="100px;"/><br>
         <sub>
           <b>Nome do participante</b>
         </sub>
