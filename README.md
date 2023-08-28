@@ -9,7 +9,7 @@
 > Descrição do projeto
 
 ## 🎥 DEMO
-https://www.youtube.com/embed/_xKbsEBddWw?si=4ovpt4PQ3LWVkyA
+https://github.com/Kadu-Santos/CatLib/blob/main/CatLib/Assets.xcassets/CatLibDemo/CatLib.mp4
 
 ## 👩🏾‍💻 Technologies
 - [x] UIKit
