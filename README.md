@@ -57,5 +57,13 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Kadu-Santo">
+        <img src="https://avatars.githubusercontent.com/u/124057200?v=4" width="100px;"/><br>
+        <sub>
+          <b>Carlos Eduardo dos Santos</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
