@@ -9,7 +9,10 @@
 > Descrição do projeto
 
 ## 🎥 DEMO
-https://youtu.be/_xKbsEBddWw
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/_xKbsEBddWw" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
 
 ## 👩🏾‍💻 Technologies
 - [x] UIKit
